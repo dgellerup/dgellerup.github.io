@@ -1,12 +1,12 @@
 # Education
-<div>
-  <div>
+<div id="wrapper">
+  <div id="first">
     <img src="https://github.com/dgellerup/dgellerup.github.io/blob/master/assets/images/uw-madison.png?raw=true" alt="UW-Madison" style="height:50px;"><br>
-    <span><strong>Bachelor's</strong></span>
+    <strong>Bachelor's</strong>
   </div>
-  <div>
+  <div id="second">
     <img src="https://github.com/dgellerup/dgellerup.github.io/blob/master/assets/images/bu.png?raw=true" alt="BU" style="height:50px;"><br>
-    <span><strong>Master's</strong></span>
+    <strong>Master's</strong>
   </div>
 </div>
 
