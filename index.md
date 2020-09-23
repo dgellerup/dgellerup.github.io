@@ -16,5 +16,5 @@
 [COVID-19 Tracking](https://dgellerup.github.io/covid-19-data/)  
 
 <strong>Laminar Python Parallelization Package:</strong>
-<a href="https://github.com/dgellerup/laminar"><u>GitHub</u></a>
-<a href="https://pypi.org/project/laminar/"><u>PyPi</u></a>
+<a href="https://github.com/dgellerup/laminar"><pre>  GitHub  </pre></a>
+<a href="https://pypi.org/project/laminar/"><pre>  PyPi</pre></a>
