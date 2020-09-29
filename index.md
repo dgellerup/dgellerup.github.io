@@ -11,6 +11,9 @@
     <strong>Bioinformatics</strong>
   </div>
 </div>
+# Service
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e95ea9fd-c57d-4ed8-858a-d253655af63e" data-share-badge-host="https://www.youracclaim.com"></div>
+<script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
 
 # Projects
 [COVID-19 Tracking](https://dgellerup.github.io/covid-19-data/)  
