@@ -14,8 +14,8 @@
 
 # Projects
 <a href="https://dgellerup.github.io/covid-19-data">
-  <img src="https://github.com/dgellerup/dgellerup.github.io/blob/master/assets/images/covid.png?raw=true" alt="COVID-19" style="height:14px;">
-  <strong><u>COVID-19 Tracking</u>
+  <img src="https://github.com/dgellerup/dgellerup.github.io/blob/master/assets/images/covid.png?raw=true" alt="COVID-19" style="height:20px;">
+  <strong style="font-size:20px;"><u>COVID-19 Tracking</u></strong>
 </a>
 
 <strong>Laminar Python Parallelization Package:</strong>
