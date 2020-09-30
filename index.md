@@ -1,3 +1,13 @@
+# Current Position
+<div id="wrapper">
+  <div id="position">
+    <a href="https://www.fredhutch.org">
+      <img src="https://github.com/dgellerup/dgellerup.github.io/blob/master/assets/images/fhcrc_logo.png?raw=true" alt="FHCRC" style="height:50px;"><br>
+    </a>
+    <strong>Informatics Analyst III</strong>
+  </div>
+</div>
+
 # Education
 <div id="wrapper">
   <div id="first">
@@ -18,9 +28,9 @@
   <strong style="font-size:20px;"><u>COVID-19 Tracking</u></strong>
 </a>
 
-<strong>Laminar Python Parallelization Package:</strong>
-<a href="https://github.com/dgellerup/laminar"><u>GitHub</u></a>
-<a href="https://pypi.org/project/laminar/"><u>PyPi</u></a>
+<strong style="font-size:20px;">Laminar Python Parallelization Package:</strong>
+<a style="font-size:20px;" href="https://github.com/dgellerup/laminar"><u>GitHub</u></a>
+<a style="font-size:20px;" href="https://pypi.org/project/laminar/"><u>PyPi</u></a>
 
 # Service
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e95ea9fd-c57d-4ed8-858a-d253655af63e" data-share-badge-host="https://www.youracclaim.com"></div>
