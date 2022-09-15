@@ -28,9 +28,9 @@
   <strong style="font-size:20px;"><u>COVID-19 Tracking</u></strong>
 </a>
 
-<strong style="font-size:20px;">Laminar Python Parallelization Package:</strong>
+<strong style="font-size:20px;">Laminar-Py Python Parallelization Package:</strong>
 <a style="font-size:20px;" href="https://github.com/dgellerup/laminar"><u>GitHub</u></a>
-<a style="font-size:20px;" href="https://pypi.org/project/laminar/"><u>PyPi</u></a>
+<a style="font-size:20px;" href="https://pypi.org/project/laminar-py/"><u>PyPi</u></a>
 
 # Service
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e95ea9fd-c57d-4ed8-858a-d253655af63e" data-share-badge-host="https://www.youracclaim.com"></div>
