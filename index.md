@@ -1,10 +1,10 @@
 # Current Position
 <div id="wrapper">
   <div id="position">
-    <a href="https://www.fredhutch.org">
-      <img src="https://github.com/dgellerup/dgellerup.github.io/blob/master/assets/images/fhcrc_logo.png?raw=true" alt="FHCRC" style="height:50px;"><br>
+    <a href="https://www.sciscogenetics.com">
+      <img src="https://github.com/dgellerup/dgellerup.github.io/blob/master/assets/images/scisco.jpegg?raw=true" alt="Scisco Genetics" style="height:50px;"><br>
     </a>
-    <strong>Informatics Analyst III</strong>
+    <strong>Bioinformatics Developer</strong>
   </div>
 </div>
 
