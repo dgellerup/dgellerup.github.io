@@ -2,7 +2,7 @@
 <div id="wrapper">
   <div id="position">
     <a href="https://www.sciscogenetics.com">
-      <img src="https://github.com/dgellerup/dgellerup.github.io/blob/master/assets/images/scisco.jpegg?raw=true" alt="Scisco Genetics" style="height:50px;"><br>
+      <img src="https://github.com/dgellerup/dgellerup.github.io/blob/master/assets/images/scisco.jpeg?raw=true" alt="Scisco Genetics" style="height:50px;"><br>
     </a>
     <strong>Bioinformatics Developer</strong>
   </div>
