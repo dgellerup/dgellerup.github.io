@@ -4,7 +4,7 @@
     <a href="https://www.sciscogenetics.com">
       <img src="https://github.com/dgellerup/dgellerup.github.io/blob/master/assets/images/scisco.jpeg?raw=true" alt="Scisco Genetics" style="height:50px;"><br>
     </a>
-    <strong>Bioinformatics Developer</strong>
+    <strong>Senior Cloud Bioinformatics Software Engineer</strong>
   </div>
 </div>
 
